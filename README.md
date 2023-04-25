@@ -2,7 +2,7 @@
 
 Dashboard sous Python, qui selon la ville choisie (parmi toutes les villes de France) mettra à jour la présentation des données démographique, santé et social, catégories socio-professionnelles et bien d'autres...
 
-  - le Data Scraping ou la collecte de données via BeautifulSoup et Selenium
+  - Collecte de données via BeautifulSoup et Selenium
   - Folium ou la cartographie via Python
   - Dash et Plotly pour la mise en graphes de données
 
